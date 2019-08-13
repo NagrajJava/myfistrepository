@@ -1,0 +1,16 @@
+xmaca
+clc
+casc
+sc
+aca
+scsa
+csa
+csac
+sac
+sac
+sasac
+sc
+sc
+c
+sc
+sacsa
